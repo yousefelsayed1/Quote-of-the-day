@@ -34,7 +34,7 @@ body {
     width: 75px;
     height: 3px;
     border-radius: 3px;
-    background: #5b548a;
+    background: rgb(23, 124, 229);
     position: absolute;
     bottom: -10px;
     right: 50%;
@@ -106,7 +106,7 @@ body {
 
 @media screen and (max-width: 767px) {
     .quote-box {
-        width: 350px;
+        width: 90%;
     }
     .quote-box h2 {
         font-size: 25px;
