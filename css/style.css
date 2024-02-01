@@ -34,7 +34,7 @@ body {
     width: 75px;
     height: 3px;
     border-radius: 3px;
-    background: rgb(23, 124, 229);
+    background: #333;
     position: absolute;
     bottom: -10px;
     right: 50%;
@@ -62,7 +62,7 @@ body {
     content: '';
     width: 20px;
     height: 2px;
-    background-color: rgb(23, 124, 229);
+    background-color: #333;
     position: absolute;
     top: 50%;
     left: -30px;
